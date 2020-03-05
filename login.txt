@@ -1,0 +1,7 @@
+demo@cyberkey.cn,1000003
+trial@cyberkey.cn,1000004
+demo_ncp@cyberkey.cn,100024
+fengshangxing@cyberkey.cn,100101
+huitianze@cyberkey.cn,100104
+admin@empsun.com,100015
+ontest@cyberkey.cn,100106
